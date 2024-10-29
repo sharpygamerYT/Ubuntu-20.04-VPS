@@ -75,7 +75,7 @@ if [ ! -e $ROOTFS_DIR/.installed ]; then
 fi
 
 clear
-echo "Foxytoux Sub"
+echo "SharpyGamerYT"
 echo "------------------------"
 
 $ROOTFS_DIR/usr/local/bin/proot \
